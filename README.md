@@ -13,9 +13,9 @@ O estudo busca modelar esse comportamento por meio de regressão exponencial.
 ## 🖼️ Gráfico do Modelo
 Aqui está a visualização do gráfico gerado pelo estudo:
 
-![Gráfico BPA](grafico_bpa.png)
+![Gráfico BPA](images/grafico_bpa.png)
 
-*(Certifique-se de que o arquivo `grafico_bpa.png` está na mesma pasta do seu `README.md` ou ajuste o caminho caso esteja em uma subpasta, por exemplo: `images/grafico_bpa.png`)*
+
 
 ---
 
