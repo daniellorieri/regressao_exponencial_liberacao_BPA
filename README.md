@@ -13,7 +13,7 @@ O estudo busca modelar esse comportamento por meio de regressão exponencial.
 ## 🖼️ Gráfico do Modelo
 Aqui está a visualização do gráfico gerado pelo estudo:
 
-![Grafico BPA](images/grafico_exponencialBPA.png)
+![Grafico BPA](images/grafico_exponencialBPA.PNG)
 
 
 
