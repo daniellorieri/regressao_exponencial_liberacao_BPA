@@ -30,3 +30,15 @@ Aqui está a visualização do gráfico gerado pelo estudo:
 
 ## 📌 Observação
 Este projeto é de caráter **acadêmico** e tem como finalidade o estudo de modelagem matemática e estatística aplicada.
+
+---
+
+## 📖 Referências
+- Literatura científica sobre BPA e regressão exponencial.  
+- Estudos estatísticos aplicados à análise de dados ambientais.  
+
+---
+
+✍️ Autor: **Daniel Lorieri**  
+🔗 [Meu GitHub](https://github.com/daniellorieri)
+
